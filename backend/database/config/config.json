@@ -1,0 +1,23 @@
+{
+	"development": {
+		"username": "root",
+		"password": "Abhishek2122",
+		"database": "compounds",
+		"host": "localhost",
+		"dialect": "mysql"
+	},
+	"test": {
+		"username": "root",
+		"password": "Abhishek2122",
+		"database": "compounds",
+		"host": "localhost",
+		"dialect": "mysql"
+	},
+	"production": {
+		"username": "root",
+		"password": "Abhishek2122",
+		"database": "compounds",
+		"host": "localhost",
+		"dialect": "mysql"
+	}
+}
