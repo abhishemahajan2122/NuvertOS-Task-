@@ -8,9 +8,11 @@ module.exports = {
         autoIncrement: true,
         primaryKey: true,
         type: Sequelize.INTEGER
+
       },
       name: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+      
       },
       image: {
         type: Sequelize.STRING
